@@ -1,0 +1,11 @@
+category_id,category_name,total_revenue,total_quantity_sold,transaction_count
+cat_009,Skinner-Romero,199220.53,690,297
+cat_006,"Ellis, Baker and Wright",177722.32,629,294
+cat_008,Rodriguez-Graham,130127.81,487,223
+cat_003,Bush Inc,127768.06,462,209
+cat_004,Kelly-Santiago,119268.85,557,271
+cat_002,James LLC,114675.48,487,222
+cat_000,"Rodriguez, Figueroa and Sanchez",105223.7,371,171
+cat_001,Baldwin Ltd,98434.34,406,180
+cat_005,Cameron-Parsons,60967.9,212,108
+cat_007,"Moore, Becker and Carlson",26302.95,193,91

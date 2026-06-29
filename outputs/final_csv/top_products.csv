@@ -1,0 +1,97 @@
+product_id,product_name,category_id,total_quantity_sold,total_item_revenue,transaction_count
+prod_00060,User-Friendly Coherent Encoding,cat_003,73,28075.8,35
+prod_00025,Down-Sized Incremental Matrix,cat_007,68,7551.4,33
+prod_00093,Business-Focused Next Generation Encryption,cat_002,68,1892.44,31
+prod_00097,Reactive Local Complexity,cat_009,63,5067.09,29
+prod_00030,Implemented Didactic Approach,cat_008,63,12493.53,28
+prod_00010,Reverse-Engineered Neutral Emulation,cat_009,62,2346.7,31
+prod_00012,Automated Full-Range Archive,cat_008,61,21079.77,30
+prod_00001,Integrated Disintermediate Approach,cat_001,61,18697.72,28
+prod_00096,Seamless Uniform Middleware,cat_000,61,23079.35,28
+prod_00031,Centralized Value-Added Functionalities,cat_001,61,14518.0,30
+prod_00048,Expanded Transitional Graphical User Interface,cat_004,59,8523.73,29
+prod_00009,Fully-Configurable Directional Architecture,cat_001,59,4758.94,25
+prod_00016,Cross-Platform Stable Internet Solution,cat_004,59,7288.27,28
+prod_00026,Extended Impactful Approach,cat_009,58,16832.76,28
+prod_00064,Automated Methodical Definition,cat_000,58,3192.32,27
+prod_00074,Public-Key Systemic Success,cat_009,57,9742.44,26
+prod_00052,Sharable Empowering Complexity,cat_006,56,15828.4,24
+prod_00057,Integrated High-Level Utilization,cat_002,56,24712.8,27
+prod_00004,De-Engineered Stable Leverage,cat_005,55,11196.9,25
+prod_00038,Object-Based Clear-Thinking Secured Line,cat_001,55,15840.55,25
+prod_00020,Ergonomic Content-Based Monitoring,cat_003,55,23584.0,25
+prod_00056,Digitized Intermediate Capacity,cat_009,55,20679.45,22
+prod_00077,Profit-Focused Fault-Tolerant Secured Line,cat_009,54,5248.26,26
+prod_00076,Secured Foreground Protocol,cat_009,54,22983.48,32
+prod_00017,Open-Source Maximized Superstructure,cat_001,54,2883.06,30
+prod_00054,Customizable Asynchronous Solution,cat_000,54,8509.86,25
+prod_00014,De-Engineered Uniform Orchestration,cat_004,54,19606.32,32
+prod_00035,Front-Line Impactful Capability,cat_008,54,15481.8,26
+prod_00033,Diverse Analyzing Migration,cat_007,53,6817.92,26
+prod_00040,Persevering Regional Open System,cat_009,53,17718.43,26
+prod_00005,Fundamental Multi-Tasking Portal,cat_009,53,20583.08,24
+prod_00087,Digitized 4Thgeneration Analyzer,cat_006,52,19024.72,26
+prod_00083,Persistent Leadingedge Intranet,cat_004,52,17889.04,28
+prod_00066,Switchable Content-Based Initiative,cat_003,52,6870.76,25
+prod_00092,Face-To-Face Context-Sensitive Website,cat_006,51,16065.51,31
+prod_00039,Persevering Foreground System Engine,cat_003,50,14578.0,26
+prod_00047,Distributed Encompassing Forecast,cat_004,50,3107.0,30
+prod_00055,Automated Holistic Paradigm,cat_003,49,18261.32,27
+prod_00061,Open-Source 4Thgeneration Conglomeration,cat_003,49,5264.07,27
+prod_00045,Reactive Exuding Protocol,cat_004,49,4252.71,25
+prod_00071,Upgradable Zero Tolerance Functionalities,cat_006,49,13535.27,23
+prod_00051,Balanced 24Hour Groupware,cat_002,49,13573.0,22
+prod_00003,Cloned Well-Modulated Monitoring,cat_003,48,16506.24,22
+prod_00018,Streamlined Secondary Attitude,cat_002,48,3878.4,25
+prod_00058,Multi-Channeled Demand-Driven Software,cat_005,48,21105.6,23
+prod_00043,Multi-Layered Executive Complexity,cat_009,48,23907.36,22
+prod_00095,Right-Sized Foreground System Engine,cat_008,48,1314.24,26
+prod_00086,Cross-Group Web-Enabled Encoding,cat_008,48,11310.24,21
+prod_00078,Inverse Impactful Standardization,cat_000,48,21449.76,23
+prod_00072,Customizable Human-Resource Orchestration,cat_006,47,18256.21,23
+prod_00082,Optional Zero Tolerance Paradigm,cat_002,47,17186.02,23
+prod_00059,Multi-Channeled Zero-Defect Open Architecture,cat_003,47,7401.56,24
+prod_00036,Secured Attitude-Oriented Instruction Set,cat_000,47,12687.18,22
+prod_00013,Front-Line Even-Keeled Secured Line,cat_004,47,22845.76,25
+prod_00041,Public-Key Didactic Middleware,cat_005,46,4828.62,26
+prod_00065,Persevering Grid-Enabled Function,cat_009,45,22149.0,22
+prod_00068,Synergistic National Groupware,cat_005,44,15004.44,23
+prod_00062,Open-Source Static Support,cat_004,44,9382.56,22
+prod_00098,Fundamental Web-Enabled Encryption,cat_009,44,22526.68,24
+prod_00019,Open-Architected Upward-Trending Graphical User Interface,cat_009,44,9435.8,21
+prod_00029,Switchable Transitional Matrix,cat_006,44,16080.68,22
+prod_00069,Enhanced Optimal Firmware,cat_006,44,6232.16,24
+prod_00094,Devolved Maximized Secured Line,cat_006,43,5529.8,21
+prod_00021,Devolved Interactive Contingency,cat_008,43,9825.07,24
+prod_00070,Customer-Focused Radical Internet Solution,cat_006,43,14631.61,22
+prod_00022,Persistent Dynamic Archive,cat_000,43,12737.03,20
+prod_00028,Horizontal Interactive Standardization,cat_006,43,9515.9,23
+prod_00006,Extended Needs-Based System Engine,cat_007,43,3255.96,19
+prod_00073,Triple-Buffered Intermediate Ability,cat_008,43,8578.5,21
+prod_00032,Business-Focused Optimal Matrices,cat_001,42,19469.1,21
+prod_00015,Phased Incremental Core,cat_008,41,15223.3,21
+prod_00089,Re-Engineered Content-Based Structure,cat_006,40,11305.2,22
+prod_00008,Organic Multi-State Knowledge User,cat_002,40,10288.8,20
+prod_00049,Sharable Empowering Middleware,cat_004,40,11862.0,18
+prod_00067,Grass-Roots Asymmetric Throughput,cat_003,39,7226.31,19
+prod_00090,Proactive Impactful Encryption,cat_004,38,8388.12,22
+prod_00053,Triple-Buffered Interactive Open Architecture,cat_002,38,10797.7,23
+prod_00000,Pre-Emptive 3Rdgeneration Budgetary Management,cat_002,38,7153.12,17
+prod_00044,Triple-Buffered Exuding Pricing Structure,cat_004,38,3090.16,19
+prod_00080,User-Friendly Context-Sensitive Pricing Structure,cat_001,37,9117.91,18
+prod_00002,Configurable Attitude-Oriented Superstructure,cat_002,37,10345.2,19
+prod_00023,Reactive Bandwidth-Monitored Application,cat_001,37,13149.06,17
+prod_00091,Team-Oriented 24Hour System Engine,cat_006,36,15280.92,21
+prod_00088,Seamless Zero Administration Archive,cat_006,35,7758.8,19
+prod_00079,Ergonomic Intangible Secured Line,cat_002,35,11568.2,17
+prod_00037,Intuitive Empowering Database,cat_008,34,18526.6,15
+prod_00027,Multi-Tiered 24Hour Info-Mediaries,cat_006,33,3275.25,17
+prod_00011,Face-To-Face 24Hour Archive,cat_008,31,13363.79,16
+prod_00046,Fundamental Bifurcated Benchmark,cat_000,31,11083.12,16
+prod_00085,Switchable Scalable Process Improvement,cat_002,31,3279.8,17
+prod_00024,Advanced Background System Engine,cat_000,29,12485.08,17
+prod_00081,Reactive 24Hour Framework,cat_007,29,8677.67,16
+prod_00084,Phased User-Facing Concept,cat_004,27,3033.18,16
+prod_00007,Open-Architected Static Projection,cat_008,21,2930.97,10
+prod_00042,De-Engineered Grid-Enabled Architecture,cat_005,19,8832.34,12
+prod_00050,Function-Based Actuating Array,cat_006,13,5401.89,7
